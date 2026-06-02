@@ -1,0 +1,12 @@
+{
+  "name": "affluent-coin-payment-server",
+  "version": "1.0.0",
+  "description": "PhonePe Payment Backend for affluentconsultancy.co.in",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
